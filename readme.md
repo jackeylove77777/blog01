@@ -7,7 +7,7 @@
 
 ### 文章详情
 
-![文章详情](images/edit.png)
+![文章详情](images/article.png)
 
 ### 创建
 
